@@ -97,7 +97,7 @@ public class VarastoTest {
 
     @Test
     public void konstr() {
-    	throw new Exception();
+    	assertTrue(false);
         varasto = new Varasto(-1);
         varasto = new Varasto(0);
         varasto = new Varasto(1,1);
