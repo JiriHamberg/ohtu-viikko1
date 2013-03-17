@@ -1,2 +1,1 @@
 print("kukkuluuruu")
-print("MUUTOS!")
